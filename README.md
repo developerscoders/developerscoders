@@ -6,7 +6,7 @@
 
 **Full-Stack Developer | Python, FastAPI, React, TypeScript | Building AI products**
 
-[LinkedIn](https://www.linkedin.com/in/pallavburnwal) &nbsp;|&nbsp; [Portfolio](PORTFOLIO_URL) &nbsp;|&nbsp; [Email](mailto:pallavburnwal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pallavburnwal) &nbsp;|&nbsp; [Portfolio](https://universe-web-portfolio.vercel.app) &nbsp;|&nbsp; [Email](mailto:pallavburnwal@gmail.com)
 
 </div>
 
@@ -22,9 +22,9 @@ Available for full-time roles immediately. Asansol, West Bengal, open to relocat
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| [Uvilox AI](REPO_URL_UVILOX) | Real-time sign language calling prototype with an emergency flow | Python, FastAPI, MongoDB, React/Next.js, WebSockets, [vision framework] | [Demo](DEMO_URL) |
-| [DevForge](REPO_URL_DEVFORGE) | Multi-agent AI dev platform: coder, reviewer and testing agents over Redis Pub/Sub | FastAPI, Redis, Docker, React, NVIDIA NIM, OpenRouter | [Demo](DEMO_URL) |
-| [BillKaro](REPO_URL_BILLKARO) | GST invoicing app for small businesses with Razorpay payments and PDF invoices | Java 17, Spring Boot, MongoDB, JWT, React Native (Expo) | [Demo](DEMO_URL) |
+| [Uvilox AI](https://web.uviloxai.app/) | Real-time sign language calling prototype with an emergency flow | Python, FastAPI, MongoDB, React/Next.js, WebSockets, [vision framework] | [Demo](https://call.uviloxai.app/) |
+| [DevForge](https://dev-forge-web.developercoders.me/) | Multi-agent AI dev platform: coder, reviewer and testing agents over Redis Pub/Sub | FastAPI, Redis, Docker, React, NVIDIA NIM, OpenRouter | [Demo](https://forge-dev.developercoders.me/) |
+| [BillKaro](https://billkaro-e3v.pages.dev/) | GST invoicing app for small businesses with Razorpay payments and PDF invoices | Java 17, Spring Boot, MongoDB, JWT, React Native (Expo) | [Demo](https://billkaro-e3v.pages.dev/) |
 
 <details>
 <summary><b>Experience</b> (click to expand)</summary>
